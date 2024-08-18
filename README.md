@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RamSivaSundaraKarthykeyan
 - 👀 I’m interested in GameDev 
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning Backend
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
