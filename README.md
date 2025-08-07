@@ -4,7 +4,7 @@ I'm Ram Siva Sundara Karthykeyan, a passionate Game Developer and a self-taught 
 
 ## About Me
 
-As a developer, I focus on building robust web pages using modern frameworks and technologies like React.js, Next.js, Node.js, and Express.js. I am open to opportunities and collaborations. My GitHub profile showcases my journey and projects!
+As a developer, I focus on building robust web sites using modern frameworks and technologies like React.js, Next.js, Node.js, and Express.js. I am open to opportunities and collaborations. My GitHub profile showcases my journey and projects!
 
 ## Skills & Technologies
 
