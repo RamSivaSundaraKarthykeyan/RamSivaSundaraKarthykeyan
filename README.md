@@ -40,6 +40,14 @@ As a developer, I focus on building robust web pages using modern frameworks and
   <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge" height="40" alt="vercel logo"  />
 </div>
 
+## GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RamSivaSundaraKarthykeyan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RamSivaSundaraKarthykeyan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+
 ## Top Projects
 
 - [**RamSivaSundaraKarthykeyan**](https://github.com/RamSivaSundaraKarthykeyan/RamSivaSundaraKarthykeyan): Config files for my GitHub profile. ⭐ 1, Language: Markdown
@@ -52,15 +60,6 @@ As a developer, I focus on building robust web pages using modern frameworks and
 - [**Startup Backers**](https://starter-backup-frontend-nextjs.vercel.app/) - Frontend Project
 
 - [Just a Clicker](https://ramsivasundarakarthykeyan.itch.io/just-a-clicker) - First Game
-
-## GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RamSivaSundaraKarthykeyan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RamSivaSundaraKarthykeyan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RamSivaSundaraKarthykeyan&show_icons=true&theme=radical)
 
 ## Recent Activity
 
