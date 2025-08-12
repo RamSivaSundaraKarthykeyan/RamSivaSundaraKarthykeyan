@@ -50,10 +50,8 @@ As a developer, I focus on building robust web sites using modern frameworks and
 
 ## Top Projects
 
-- [**RamSivaSundaraKarthykeyan**](https://github.com/RamSivaSundaraKarthykeyan/RamSivaSundaraKarthykeyan): Config files for my GitHub profile. ⭐ 1, Language: Markdown
-- [**StartupBackers**](https://github.com/RamSivaSundaraKarthykeyan/StarterBackup-Frontend-Nextjs): A project to learn Next.js. ⭐ 0, Language: JavaScript
-- [**MERN-stack-collab-ToDo-project**](https://github.com/RamSivaSundaraKarthykeyan/MERN-stack-collab-ToDo-project): A collaborative ToDo application using the MERN stack. ⭐ 0, Language: JavaScript
-- [**Traffic-Flow-Optimization**](https://github.com/RamSivaSundaraKarthykeyan/Traffic-Flow-Optimization): A Python project focused on optimizing traffic flow. ⭐ 0, Language: Python
+- [**StartupBackers**](https://github.com/RamSivaSundaraKarthykeyan/StarterBackup-Frontend-Nextjs): A project to learn Next.js. Language: JavaScript
+- [**Traffic-Flow-Optimization**](https://github.com/RamSivaSundaraKarthykeyan/Traffic-Flow-Optimization): A Python project focused on optimizing traffic flow.  Language: Python
 
 ## Publications
 
