@@ -55,9 +55,11 @@ As a developer, I focus on building robust web sites using modern frameworks and
 
 ## Publications
 
-- [**Startup Backers**](https://starter-backup-frontend-nextjs.vercel.app/) - Frontend Project
+- [**Startup Backers**](https://starter-backup-frontend-nextjs.vercel.app/) - Frontend Project for startup investors and founders.
 
-- [Just a Clicker](https://ramsivasundarakarthykeyan.itch.io/just-a-clicker) - First Game
+- [**Task Cards**](https://github.com/RamSivaSundaraKarthykeyan/Cards-Task) - New way to create and organise tasks
+
+- [**Just a Clicker**](https://ramsivasundarakarthykeyan.itch.io/just-a-clicker) - First Game
 
 ## Recent Activity
 
