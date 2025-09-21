@@ -62,7 +62,7 @@ As a developer, I focus on building robust web sites using modern frameworks and
 
 - [**Just a Clicker**](https://ramsivasundarakarthykeyan.itch.io/just-a-clicker) - First Game
 
-- - [Shake Flashlight](https://github.com/RamSivaSundaraKarthykeyan/ShakeFlashlight) - Android Utility
+- [Shake Flashlight](https://github.com/RamSivaSundaraKarthykeyan/ShakeFlashlight) - Android Utility
 
 ## Connect with Me
 
