@@ -52,6 +52,7 @@ As a developer, I focus on building robust web sites using modern frameworks and
 
 - [**StartupBackers**](https://github.com/RamSivaSundaraKarthykeyan/StarterBackup-Frontend-Nextjs): A project to learn Next.js. Language: JavaScript
 - [Just a Clicker](https://ramsivasundarakarthykeyan.itch.io/just-a-clicker) - First Game
+- [Shake Flashlight](https://github.com/RamSivaSundaraKarthykeyan/ShakeFlashlight) - First Android Project
 
 ## Publications
 
@@ -61,13 +62,7 @@ As a developer, I focus on building robust web sites using modern frameworks and
 
 - [**Just a Clicker**](https://ramsivasundarakarthykeyan.itch.io/just-a-clicker) - First Game
 
-## Recent Activity
-
-- ⭐ Starred [StarterBackup-Frontend-Nextjs](https://github.com/RamSivaSundaraKarthykeyan/StarterBackup-Frontend-Nextjs)
-- 🐛 Fixed bugs in [MERN-stack-collab-ToDo-project](https://github.com/RamSivaSundaraKarthykeyan/MERN-stack-collab-ToDo-project)
-- 📝 Updated README for [Traffic-Flow-Optimization](https://github.com/RamSivaSundaraKarthykeyan/Traffic-Flow-Optimization)
-- ♻️ Contributed to [StarterBackup-Frontend-Nextjs](https://github.com/RamSivaSundaraKarthykeyan/StarterBackup-Frontend-Nextjs)
-- 🔄 Committed changes to [Clicker](https://github.com/RamSivaSundaraKarthykeyan/Clicker)
+- - [Shake Flashlight](https://github.com/RamSivaSundaraKarthykeyan/ShakeFlashlight) - Android Utility
 
 ## Connect with Me
 
