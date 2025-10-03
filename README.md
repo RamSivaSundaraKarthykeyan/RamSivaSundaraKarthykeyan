@@ -43,7 +43,7 @@ As a developer, I focus on building robust web sites using modern frameworks and
 ## GitHub Stats
 
 <div align="center">
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=RamSivaSundaraKarthykeyan)](https://git.io/streak-stats)
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=RamSivaSundaraKarthykeyan&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
 </div>
 
 
