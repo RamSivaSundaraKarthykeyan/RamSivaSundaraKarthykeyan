@@ -46,7 +46,7 @@ As a developer, I focus on building robust web sites using modern frameworks and
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=RamSivaSundaraKarthykeyan&theme=tokyonight&hide_border=true" alt="GitHub Streak" /></a>
   <a href="https://leetcode.com/RamSivaSundaraKarthykeyanS/" target="_blank" rel="noopener noreferrer">
   <img
-    src="https://leetcode.card.workers.dev/RamSivaSundaraKarthykeyanS?theme=dark&font=baloo&extension=null"
+    src="https://leetcode.card.workers.dev/RamSivaSundaraKarthykeyanS?cache=0&theme=dark&font=baloo&extension=null"
     alt="LeetCode Stats — Ram Siva Sundara Karthykeyan"
     loading="lazy"
   />
