@@ -43,8 +43,7 @@ As a developer, I focus on building robust web sites using modern frameworks and
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RamSivaSundaraKarthykeyan&theme=dracula" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RamSivaSundaraKarthykeyan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=RamSivaSundaraKarthykeyan)](https://git.io/streak-stats)
 </div>
 
 
