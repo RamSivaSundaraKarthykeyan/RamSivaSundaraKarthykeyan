@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-I'm Ram Siva Sundara Karthykeyan, a passionate Game Developer and a self-taught Web Developer.
+I'm Ram Siva Sundara Karthykeyan, a passionate Game Developer and a self-taught Full-Stack developer.
 
 ## About Me
 
