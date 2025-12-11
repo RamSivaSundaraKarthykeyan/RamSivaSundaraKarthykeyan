@@ -58,12 +58,15 @@ As a developer, I focus on building robust web sites using modern frameworks and
 ## Top Projects
 
 - [**StartupBackers**](https://github.com/RamSivaSundaraKarthykeyan/StarterBackup-Frontend-Nextjs): A project to learn Next.js. Language: JavaScript
+- [**Finance Tracker**](https://github.com/RamSivaSundaraKarthykeyan/finance-tracker-the-actual): A fullstack project using Next.js, Mongo db, Google Auth
 - [Just a Clicker](https://ramsivasundarakarthykeyan.itch.io/just-a-clicker) - First Game
 - [Shake Flashlight](https://github.com/RamSivaSundaraKarthykeyan/ShakeFlashlight) - First Android Project
 
 ## Publications
 
 - [**Startup Backers**](https://starter-backup-frontend-nextjs.vercel.app/) - Frontend Project for startup investors and founders.
+
+- [**Finance Tracker**](https://finance-tracker-navy-five.vercel.app/) - A fullstack project that helps the users to keep track of their money flow.
 
 - [**Task Cards**](https://github.com/RamSivaSundaraKarthykeyan/Cards-Task) - New way to create and organise tasks
 
