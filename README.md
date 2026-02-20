@@ -64,15 +64,15 @@ As a developer, I focus on building robust web sites using modern frameworks and
 
 ## Publications
 
-- [**Startup Backers**](https://starter-backup-frontend-nextjs.vercel.app/) - Frontend Project for startup investors and founders.
-
 - [**Finance Tracker**](https://finance-tracker-navy-five.vercel.app/) - A fullstack project that helps the users to keep track of their money flow.
+
+- [**Startup Backers**](https://starter-backup-frontend-nextjs.vercel.app/) - Frontend Project for startup investors and founders.
 
 - [**Task Cards**](https://github.com/RamSivaSundaraKarthykeyan/Cards-Task) - New way to create and organise tasks
 
 - [**Just a Clicker**](https://ramsivasundarakarthykeyan.itch.io/just-a-clicker) - First Game
 
-- [Shake Flashlight](https://github.com/RamSivaSundaraKarthykeyan/ShakeFlashlight) - Android Utility
+- [**Shake Flashlight**](https://github.com/RamSivaSundaraKarthykeyan/ShakeFlashlight) - Android Utility
 
 ## Connect with Me
 
