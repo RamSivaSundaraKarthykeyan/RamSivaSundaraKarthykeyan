@@ -7,8 +7,11 @@
 I'm Ram Siva Sundara Karthykeyan, a passionate Game Developer and a self-taught Full-Stack developer.
 
 ## About Me
+I'm a performance-driven Full-Stack Developer specializing in **Next.js**, **TypeScript**, and **MongoDB**, with a strong eye for UI/UX design. I build fast, scalable, and visually refined web applications — from financial dashboards to premium agency landing pages — and have a passion for game development on the side.
 
-As a developer, I focus on building robust web sites using modern frameworks and technologies like React.js, Next.js, Node.js, and Typescript. I am open to opportunities and collaborations. My GitHub profile showcases my journey and projects!
+Currently interning as a **Frontend Developer at Gryphens Web3 Innovations**, building React Native screens for a live product. I'm also the **First Prize winner of OpenHacks 2025**, where I led a team of 4 to ship a working prototype in just 8 hours.
+
+I'm open to interns, part-time roles, freelance projects, and collaborations. Let's build something great!
 
 ---
 
