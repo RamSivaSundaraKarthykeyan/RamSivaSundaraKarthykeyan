@@ -1,104 +1,148 @@
-## Hi there! 👋
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Ram;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
 
 I'm Ram Siva Sundara Karthykeyan, a passionate Game Developer and a self-taught Full-Stack developer.
 
 ## About Me
 
-As a developer, I focus on building robust web sites using modern frameworks and technologies like React.js, Next.js, Node.js, and Express.js. I am open to opportunities and collaborations. My GitHub profile showcases my journey and projects!
+As a developer, I focus on building robust web sites using modern frameworks and technologies like React.js, Next.js, Node.js, and Typescript. I am open to opportunities and collaborations. My GitHub profile showcases my journey and projects!
 
-## Skills & Technologies
+---
 
+## 🛠️ Skills & Technologies
+
+### Frontend
 <div align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="40" alt="javascript logo"  />
-  
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="40" alt="react logo"  />
-  
-  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" height="40" alt="nextjs logo"  />
-  
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="40" alt="html5 logo"  />
-  
-  <img src="https://img.shields.io/badge/CSS-1572B6?logo=css&logoColor=white&style=for-the-badge" height="40" alt="css logo"  />
-  
-  <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=tailwindcss&logoColor=black&style=for-the-badge" height="40" alt="tailwindcss logo"  />
-  
-  <img src="https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white&style=for-the-badge" height="40" alt="notion logo"  />
- 
-  <img src="https://img.shields.io/badge/Godot Engine-478CBF?logo=godotengine&logoColor=white&style=for-the-badge" height="40" alt="godot logo"  />
-
-  <img src="https://img.shields.io/badge/Unity-FFFFFF?logo=unity&logoColor=black&style=for-the-badge" height="40" alt="unity logo"  />
-
-  <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black&style=for-the-badge" height="40" alt="c logo"  />
- 
-  <img src="https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=black&style=for-the-badge" height="40" alt="canva logo"  />
- 
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="40" alt="python logo"  />
- 
-  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" height="40" alt="figma logo"  />
-
-  <img src="https://img.shields.io/badge/GIMP-5C5543?logo=gimp&logoColor=white&style=for-the-badge" height="40" alt="gimp logo"  />
-
-  <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge" height="40" alt="vercel logo"  />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="40" alt="javascript logo" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="40" alt="typescript logo" />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="40" alt="react logo" />
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="40" alt="react native logo" />
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" height="40" alt="nextjs logo" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="40" alt="html5 logo" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="40" alt="css logo" />
+  <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=tailwindcss&logoColor=black&style=for-the-badge" height="40" alt="tailwindcss logo" />
+  <img src="https://img.shields.io/badge/Framer Motion-0055FF?logo=framer&logoColor=white&style=for-the-badge" height="40" alt="framer motion logo" />
+  <img src="https://img.shields.io/badge/Recharts-22B5BF?logo=recharts&logoColor=white&style=for-the-badge" height="40" alt="recharts logo" />
+  <img src="https://img.shields.io/badge/Expo-000020?logo=expo&logoColor=white&style=for-the-badge" height="40" alt="expo logo" />
 </div>
 
-## GitHub Stats
-
-<div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=RamSivaSundaraKarthykeyan&theme=tokyonight&hide_border=true" alt="GitHub Streak" /></a>
-  <a href="https://leetcode.com/RamSivaSundaraKarthykeyanS/" target="_blank" rel="noopener noreferrer">
-  <img
-    src="https://leetcode.card.workers.dev/RamSivaSundaraKarthykeyanS?cache=0&theme=dark&font=baloo&extension=null"
-    alt="LeetCode Stats — Ram Siva Sundara Karthykeyan"
-    loading="lazy"
-  />
-</a>
-  <picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=RamSivaSundaraKarthykeyanS&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=RamSivaSundaraKarthykeyanS&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=RamSivaSundaraKarthykeyanS&show_icons=true" />
-</picture>
+### Backend & Database
+<div align="left">
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="40" alt="nodejs logo" />
+  <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=for-the-badge" height="40" alt="expressjs logo" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="40" alt="mongodb logo" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="40" alt="mysql logo" />
+  <img src="https://img.shields.io/badge/NextAuth.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" height="40" alt="nextauth logo" />
+  <img src="https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens&logoColor=white&style=for-the-badge" height="40" alt="jwt logo" />
+  <img src="https://img.shields.io/badge/REST API-FF6C37?logo=postman&logoColor=white&style=for-the-badge" height="40" alt="rest api logo" />
 </div>
 
+### Tools & Environment
+<div align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="40" alt="git logo" />
+  <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge" height="40" alt="vercel logo" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge" height="40" alt="postman logo" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" height="40" alt="figma logo" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=black&style=for-the-badge" height="40" alt="canva logo" />
+  <img src="https://img.shields.io/badge/GIMP-5C5543?logo=gimp&logoColor=white&style=for-the-badge" height="40" alt="gimp logo" />
+  <img src="https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white&style=for-the-badge" height="40" alt="notion logo" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" height="40" alt="linux logo" />
+  <img src="https://img.shields.io/badge/Kubuntu-0079C1?logo=kubuntu&logoColor=white&style=for-the-badge" height="40" alt="kubuntu logo" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="40" alt="python logo" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black&style=for-the-badge" height="40" alt="c logo" />
+</div>
 
-## Top Projects
+### Game Development
+<div align="left">
+  <img src="https://img.shields.io/badge/Godot Engine-478CBF?logo=godotengine&logoColor=white&style=for-the-badge" height="40" alt="godot logo" />
+  <img src="https://img.shields.io/badge/Unity-FFFFFF?logo=unity&logoColor=black&style=for-the-badge" height="40" alt="unity logo" />
+</div>
 
-- [**Finance Tracker**](https://github.com/RamSivaSundaraKarthykeyan/finance-tracker-the-actual): A fullstack project using Next.js, Mongo db, Google Auth
+---
+
+## 📊 Stats
+
+<table align="center" width="100%">
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://leetcode.card.workers.dev/RamSivaSundaraKarthykeyanS?cache=0&theme=dark&font=baloo&extension=null" alt="LeetCode Stats — Ram Siva Sundara Karthykeyan" loading="lazy" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ouuan.vercel.app/api?username=RamSivaSundaraKarthykeyan&theme=tokyonight&show_icons=true&hide_border=true">
+        <img src="https://github-readme-stats-ouuan.vercel.app/api?username=RamSivaSundaraKarthykeyan&show_icons=true&hide_border=true" width="100%" />
+      </picture>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://streak-stats.demolab.com?user=RamSivaSundaraKarthykeyan&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Streak" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RamSivaSundaraKarthykeyan&theme=github_dark" width="100%" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RamSivaSundaraKarthykeyan&theme=github_dark" width="100%" />
+    </td>
+  </tr>
+  
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=RamSivaSundaraKarthykeyan&theme=react-dark&bg_color=20232a&hide_border=true" width="100%" />
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🚀 Top Projects
+
+- [**Finance Tracker**](https://github.com/RamSivaSundaraKarthykeyan/finance-tracker-the-actual): A fullstack project using Next.js, MongoDB, Google Auth
 - [**Just a Clicker**](https://ramsivasundarakarthykeyan.itch.io/just-a-clicker) - First Game
 - [**Shake Flashlight**](https://github.com/RamSivaSundaraKarthykeyan/ShakeFlashlight) - First Android Project
 - [**StartupBackers**](https://github.com/RamSivaSundaraKarthykeyan/StarterBackup-Frontend-Nextjs): A project to learn Next.js. Language: JavaScript
 
-## Publications
+## 📌 Publications
 
 - [**Finance Tracker**](https://finance-tracker-navy-five.vercel.app/) - A fullstack project that helps the users to keep track of their money flow.
-
 - [**Task Cards**](https://github.com/RamSivaSundaraKarthykeyan/Cards-Task) - New way to create and organise tasks
-
 - [**Just a Clicker**](https://ramsivasundarakarthykeyan.itch.io/just-a-clicker) - First Game
-
 - [**Shake Flashlight**](https://github.com/RamSivaSundaraKarthykeyan/ShakeFlashlight) - Android Utility
 
-## Connect with Me
+---
+
+### 🎮 Let's play Pokémon together~
+<img src="https://toy.cloudreve.org/image" width="300"/> 
+
+<img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/blank.png" width="30"/> <a href="https://toy.cloudreve.org/control?button=2&callback=https://github.com/HFO4"><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/up.png" width="30"/></a>
+<br><a href="https://toy.cloudreve.org/control?button=1&callback=https://github.com/HFO4"><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/left.png" width="30"/></a><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/blank.png" width="30"/><a href="https://toy.cloudreve.org/control?button=0&callback=https://github.com/HFO4"><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/right.png" width="30"/></a><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/blank.png" width="30"/><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/blank.png" width="30"/><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/blank.png" width="30"/><a href="https://toy.cloudreve.org/control?button=5&callback=https://github.com/HFO4"><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/B.png" width="30"/></a> <a href="https://toy.cloudreve.org/control?button=4&callback=https://github.com/HFO4"><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/A.png" width="30"/></a>
+<br><a href="https://toy.cloudreve.org/control?button=3&callback=https://github.com/HFO4"><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/blank.png" width="30"/><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/down.png" width="30"/></a>
+<br><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/blank.png" width="30"/><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/blank.png" width="30"/><a href="https://toy.cloudreve.org/control?button=6&callback=https://github.com/HFO4"><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/select.png" width="74"/></a> <a href="https://toy.cloudreve.org/control?button=7&callback=https://github.com/HFO4"><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/start.png" width="65" /></a>
+
+---
+
+## 🤝 Connect with Me
 
 <div align="left">
   <a href="https://www.linkedin.com/in/ram-siva-sundara-karthykeyan/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
   </a>
-  <a href="srssk2005@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  <a href="mailto:srssk2005@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
   </a>
-  <a href="srssk" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  <a href="https://discord.com/users/srssk" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo" />
   </a>
   <a href="https://www.instagram.com/siva_karthykeyan7/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" />
   </a>
-  <a href="+91 7305077196" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+  <a href="https://wa.me/917305077196" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo" />
   </a>
 </div>
 
