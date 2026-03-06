@@ -100,19 +100,41 @@ As a developer, I focus on building robust web sites using modern frameworks and
 
 ---
 
-## 🚀 Top Projects
+## 📌 Pinned Projects
 
-- [**Finance Tracker**](https://github.com/RamSivaSundaraKarthykeyan/finance-tracker-the-actual): A fullstack project using Next.js, MongoDB, Google Auth
-- [**Just a Clicker**](https://ramsivasundarakarthykeyan.itch.io/just-a-clicker) - First Game
-- [**Shake Flashlight**](https://github.com/RamSivaSundaraKarthykeyan/ShakeFlashlight) - First Android Project
-- [**StartupBackers**](https://github.com/RamSivaSundaraKarthykeyan/StarterBackup-Frontend-Nextjs): A project to learn Next.js. Language: JavaScript
+### 💰 [Finance Tracker](https://github.com/RamSivaSundaraKarthykeyan/finance-tracker-the-actual) · [Live](https://finance-tracker-navy-five.vercel.app/)
+> A fullstack financial dashboard built to solve the problem of financial unconsciousness in the age of one-click payments.
 
-## 📌 Publications
+Built with hybrid storage — **localStorage** for zero-latency access and **MongoDB Atlas** for cloud sync across devices. Features **Google OAuth** via NextAuth.js for passwordless login and rich **Recharts** analytics including area charts and bar graphs for monthly expense insights.
 
-- [**Finance Tracker**](https://finance-tracker-navy-five.vercel.app/) - A fullstack project that helps the users to keep track of their money flow.
-- [**Task Cards**](https://github.com/RamSivaSundaraKarthykeyan/Cards-Task) - New way to create and organise tasks
-- [**Just a Clicker**](https://ramsivasundarakarthykeyan.itch.io/just-a-clicker) - First Game
-- [**Shake Flashlight**](https://github.com/RamSivaSundaraKarthykeyan/ShakeFlashlight) - Android Utility
+`Next.js 14` `MongoDB` `NextAuth.js` `Recharts` `Tailwind CSS`
+
+---
+
+### 🍎 [Food Explorer](https://github.com/RamSivaSundaraKarthykeyan/food_explorer) · [Live](https://food-explorer-by-ram.vercel.app/)
+> Explore and evaluate 10,000+ global food products with detailed nutritional data and health grades — no API key required.
+
+Engineered custom URL query logic to bypass API rate limits and implemented strict **TypeScript** parsing schemas to eliminate runtime errors from unformatted external data. Features a bold **Neo-Brutalist UI** with smart search, barcode lookup, category filters, and skeleton loading states.
+
+`Next.js 15` `TypeScript` `OpenFoodFacts API` `Tailwind CSS`
+
+---
+
+### 🏢 [360 Advertisement Website](https://github.com/RamSivaSundaraKarthykeyan/advertisers_frontend_project) · [Live](https://iconcepts-five.vercel.app/)
+> A premium redesign of a 360° advertising agency's digital presence — targeting CMOs and business owners.
+
+Built with a custom **GSAP-powered pinning scroll system**, staggered section transitions, and editorial typography to communicate nearly two decades of industry credibility. Highlights INS Accreditation, and a segmented client grid across Real Estate, Banking, and Healthcare.
+
+`Next.js 15` `GSAP` `Framer Motion` `Lenis` `Tailwind CSS 4`
+
+---
+
+### 🎮 [Just a Clicker](https://ramsivasundarakarthykeyan.itch.io/just-a-clicker) · [Live](https://ramsivasundarakarthykeyan.itch.io/just-a-clicker)
+> My first shipped game — a browser-based clicker built with Godot Engine.
+
+A milestone project that marks the beginning of my game development journey. Published on itch.io.
+
+`Godot Engine`
 
 ---
 
